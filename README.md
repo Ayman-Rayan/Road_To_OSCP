@@ -1,7 +1,7 @@
 # Road_To_OSCP
 
 In this repository im uploading and documenting all the Boxes that i performed a Pentest on in order to put in 
-practice all the theory that i Learned from CISSP,CCNA,Pentest+,Ejpt and OSCP beginner course on tryhackme 
+practice all the theory that i Learned from CISSP,CCNA,Pentest+,Ejpt and OSCP course on tryhackme 
 
 **the main goal of this serie is developing the required skills and reflexes to perform a professional Penetration 
 Test by following the 5 stages of the Pentest**
