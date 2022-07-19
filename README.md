@@ -1,6 +1,7 @@
 # Road_To_OSCP
 
-![](https://hackzone.in/wp-content/uploads/2020/06/oscp-acclaim.png)
+
+<center><img src="https://hackzone.in/wp-content/uploads/2020/06/oscp-acclaim.png"></center>
 
 In this repository im uploading and documenting all the Boxes that i performed a Pentest on in order to put in 
 practice all the theory that i Learned from CISSP,CCNA,Pentest+,Ejpt and OSCP course on tryhackme 
